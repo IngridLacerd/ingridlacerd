@@ -8,7 +8,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
 </div>
- f
+ 
  <br>
  
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
@@ -18,6 +18,5 @@
   <a href="https://instagram.com/i.lacerd1411://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>" target="_blank"><img src="http
   <a href="https://www.linkedin.com/in/ingrid-lacerda-358b49264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  ![Animação de cobra](https://github.com/ingridlacer/ingridlacerd/blob/output/github-contribution-grid-snake.svg)
 
 </div>
